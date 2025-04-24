@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\FFF\\source\\repos\\WebApplicationShoppp\\WebApplicationShoppp\\wwwroot\\images\\41YudnNM6iL._AC_UY1000__2d6474a3-e857-48f3-8b3c-b76a4056cdfc.jpg",
+      "PackagePath": "staticwebassets\\images\\41YudnNM6iL._AC_UY1000__2d6474a3-e857-48f3-8b3c-b76a4056cdfc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FFF\\source\\repos\\WebApplicationShoppp\\WebApplicationShoppp\\wwwroot\\images\\51-Uy0n0B1L._AC_SX679__cd782386-60f5-402d-b264-8d2a868dcae3.jpg",
+      "PackagePath": "staticwebassets\\images\\51-Uy0n0B1L._AC_SX679__cd782386-60f5-402d-b264-8d2a868dcae3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FFF\\source\\repos\\WebApplicationShoppp\\WebApplicationShoppp\\wwwroot\\images\\JUNEARCHCAMOGREYSHORTS_1250x_f68f36af-e9a5-4ebc-b3b6-cc964c292e24.webp",
+      "PackagePath": "staticwebassets\\images\\JUNEARCHCAMOGREYSHORTS_1250x_f68f36af-e9a5-4ebc-b3b6-cc964c292e24.webp"
+    },
+    {
+      "Id": "C:\\Users\\FFF\\source\\repos\\WebApplicationShoppp\\WebApplicationShoppp\\wwwroot\\images\\JUNEARCHCAMOGREYSHORTS_1250x_f68f36af-e9a5-4ebc-b3b6-cc964c292e24_de8f5167-52cf-4b49-ab75-cab3dcb38b06.webp",
+      "PackagePath": "staticwebassets\\images\\JUNEARCHCAMOGREYSHORTS_1250x_f68f36af-e9a5-4ebc-b3b6-cc964c292e24_de8f5167-52cf-4b49-ab75-cab3dcb38b06.webp"
+    },
+    {
+      "Id": "C:\\Users\\FFF\\source\\repos\\WebApplicationShoppp\\WebApplicationShoppp\\wwwroot\\images\\blackJacket_5c5df7e3-6f07-4ad1-a675-0ee8ccd20503.PNG",
+      "PackagePath": "staticwebassets\\images\\blackJacket_5c5df7e3-6f07-4ad1-a675-0ee8ccd20503.PNG"
+    },
+    {
+      "Id": "C:\\Users\\FFF\\source\\repos\\WebApplicationShoppp\\WebApplicationShoppp\\wwwroot\\images\\dazzling_f23ab8ac-11fc-49cb-9a2d-311363195829.PNG",
+      "PackagePath": "staticwebassets\\images\\dazzling_f23ab8ac-11fc-49cb-9a2d-311363195829.PNG"
+    },
+    {
+      "Id": "C:\\Users\\FFF\\source\\repos\\WebApplicationShoppp\\WebApplicationShoppp\\wwwroot\\images\\ek9_d7777180-2a3b-4ebf-a9c6-0f40de2d3c94.jpg",
+      "PackagePath": "staticwebassets\\images\\ek9_d7777180-2a3b-4ebf-a9c6-0f40de2d3c94.jpg"
+    },
+    {
+      "Id": "C:\\Users\\FFF\\source\\repos\\WebApplicationShoppp\\WebApplicationShoppp\\wwwroot\\images\\jacketblue_79872edd-4590-4d12-a787-551a5078b891.PNG",
+      "PackagePath": "staticwebassets\\images\\jacketblue_79872edd-4590-4d12-a787-551a5078b891.PNG"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplicationShoppp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplicationShoppp.props",
+      "PackagePath": "build\\WebApplicationShoppp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplicationShoppp.props",
+      "PackagePath": "buildMultiTargeting\\WebApplicationShoppp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplicationShoppp.props",
+      "PackagePath": "buildTransitive\\WebApplicationShoppp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
