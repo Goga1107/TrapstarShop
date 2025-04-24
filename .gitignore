@@ -9,6 +9,7 @@ appsettings.Development.json
 clientsecret.json
 token.json
 secrets.json
+Google.Apis.Auth.OAuth2.Responses.TokenResponse-user:1
 .env
 
 
