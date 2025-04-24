@@ -1,0 +1,43 @@
+## Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+## .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Runtime-specific files
+*.db
+*.sqlite
+*.mdb
+
+## Secrets
+appsettings.json
+appsettings.Development.json
+secrets.json
+ WebApplicationShoppp/token.json
+.env
+
+## Others
+*.log
+*.tlog
+*.cache
+*.pdb
+*.nupkg
+*.snupkg
+
+## OS-specific
+.DS_Store
+Thumbs.db
